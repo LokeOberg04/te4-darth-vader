@@ -7,6 +7,10 @@
 
 body {
   height: 100%;
-  color: #ff0000;
+  color: #ffffff;
   background-color: black;
+}
+
+h1 {
+  color: #ff0000;
 }
